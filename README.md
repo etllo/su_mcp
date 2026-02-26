@@ -106,4 +106,4 @@ su_mcp/
 
 ## License
 
-Copyright (c) 2024 1Pitaph. All rights reserved.
+Copyright (c) 2026 1Pitaph. All rights reserved.
